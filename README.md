@@ -52,8 +52,7 @@ asyncfunc(opt).then(data => {
 
 ```
 (async () => {
-    // let rpc = require('json-rpc-cli');
-    let rpc = require('../index');
+    let rpc = require('json-rpc-cli');
 
     const options = {
         host: "127.0.0.1",
