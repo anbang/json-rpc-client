@@ -2,6 +2,12 @@
 
 这个package 是在 JSON RPC 的客户端中使用，传入您的`action`和对应参数即可在JS是获取到信息；
 
+# Install
+
+```
+npm install json-rpc-client --save
+```
+
 # 使用方法演示
 
 ## then/catch
