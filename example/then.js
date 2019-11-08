@@ -1,4 +1,4 @@
-// let rpc = require('json-rpc-client');
+// let rpc = require('json-rpc-cli');
 let rpc = require('../index');
 
 const options = {
